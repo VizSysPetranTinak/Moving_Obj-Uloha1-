@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\boi\documents\github\zadanie2\moving_obj\moving_obj\source.cpp(36): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\boi\documents\github\zadanie2\moving_obj\moving_obj\source.cpp(97): warning C4474: 'sprintf' : too many arguments passed for format string
+  c:\users\boi\documents\github\zadanie2\moving_obj\moving_obj\source.cpp(97): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\boi\documents\github\zadanie2\moving_obj\moving_obj\source.cpp(159): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\boi\documents\github\zadanie2\moving_obj\moving_obj\source.cpp(179): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\boi\documents\github\zadanie2\moving_obj\moving_obj\source.cpp(180): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Moving_Obj.vcxproj -> C:\Users\Boi\Documents\GitHub\Zadanie2\Moving_Obj\x64\Debug\Moving_Obj.exe
+  Moving_Obj.vcxproj -> C:\Users\Boi\Documents\GitHub\Zadanie2\Moving_Obj\x64\Debug\Moving_Obj.pdb (Full PDB)
